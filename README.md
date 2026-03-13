@@ -105,3 +105,8 @@ Example outputs:
 - Kicad(PCB design)
 - Tinkercad (Circuit Simulation)
 - Github( Version Control and project hasting)
+
+## 👤 Author
+
+Designed and developed by Harshini  
+Embedded Systems & PCB Design Enthusiast
