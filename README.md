@@ -96,4 +96,12 @@ A custom PCB was designed using **KiCad**, including:
 
 Example outputs:
 
-**Safe Condition**v
+**Safe Condition**
+**Normal Condition**
+**Overheat Condition**
+
+## Tools Used
+
+- Kicad(PCB design)
+- Tinkercad (Circuit Simulation)
+- Github( Version Control and project hasting)
