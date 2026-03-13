@@ -82,7 +82,7 @@ A custom PCB was designed using **KiCad**, including:
 - 3D PCB visualization
 
 ### PCB Layout
-![PCB Layout](Temperature-monitoring-thermal-control-system/images/layout.png)
+![PCB Layout](Temperature-monitoring-thermal-control-system/Images/3d_top.png)
 
 ### 3D PCB View
 ![3D Top](images/3d_top.png)
